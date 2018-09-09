@@ -11,7 +11,7 @@ class CPTU(object):
         self.dd = 0.02
         self.a = 0.15
         self.Pa = 100.0
-        self.Nkt = 14.0
+        self.Nkt = 12.0
         self.wlvl = 1.2
 
     def pokaz(self, wiersze=10):
